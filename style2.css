@@ -342,32 +342,6 @@ hr {
         margin-bottom: 50px;
     }
 
-    .porfolios {
-        padding: 0px 30px 30px 30px;
-    }
-
-    .porfolios h2 {
-        margin-bottom: 15px;
-    }
-
-    .porfolio {
-        flex-direction: column;
-    }
-
-    .porfolio img {
-        display: none;
-    }
-
-    .porfolio-1 {
-        text-align: center;
-        margin: 0px 0px 25px 0px;
-    }
-
-    .porfolio-2 {
-        text-align: center;
-        margin: 0px 0px 25px 0px;
-    }
-
     footer {
         padding: 0px 30px 30px 30px;
     }
